@@ -32,10 +32,11 @@ nav:
     - Account types: Getting-Started/access-levels.md
     - Creating a user account: Getting-Started/user-accounts.md
     - Getting a billing account: Getting-Started/billing-accounts.md
-    - Creating a workspace: Getting-Started/workspaces/create-workspace.md
-    - Managing workspace members: Getting-Started/workspaces/member-management.md
-    - Workspace credentials: Getting-Started/workspaces/workspace-credentials.md
-    - Linked accounts: Getting-Started/workspaces/linked-accounts.md
+    - Workspaces:
+      - Creating a workspace: Getting-Started/workspaces/create-workspace.md
+      - Managing workspace members: Getting-Started/workspaces/member-management.md
+      - Workspace credentials: Getting-Started/workspaces/workspace-credentials.md
+      - Linked accounts: Getting-Started/workspaces/linked-accounts.md
   - Explorers:
     - Finding data: 
       - What's available?: placeholder.md
@@ -51,8 +52,6 @@ nav:
       - Code access: placeholder3.md
   - Analysts:
     - Commercial data:
-      - Available commercial data: Analysts/commercial/what-is-available.md
-      - Commercial data applications: Analysts/commercial/applications.md
       - Linking into EODH: Analysts/commercial/link-accounts.md
       - Ordering commercial data: Analysts/commercial/ordering-commercial-data.md
       - Usage restrictions: Analysts/commercial/restrictions.md
