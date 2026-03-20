@@ -42,11 +42,13 @@ Welcome to the documentation for the Earth Observation Data Hub. The Hub is an E
 
 ---
 # Launch Your Learning
-Here you will find
+Use the search and table of contents to navigate to topics, and between and within pages. Here you will find
 
 - :material-notebook-multiple: Example notebooks
 - :fontawesome-brands-youtube: Video tutorials
 - :fontawesome-solid-comments: Community discussion forum
+
+If you need to return to the Hub click the logo in the top left of any page.
 
 !!! available services
 
@@ -77,6 +79,5 @@ Here you will find
 
 # More help needed?
 Email us at enquiries@eodatahub.org.uk and the team will be happy to help :octicons-smiley-16:
-[Contact the helpdesk :fontawesome-solid-headset:](#){ .md-button }
 
-==If you need to return to the Hub click the logo in the top left of any page. Use the search and table of contents to navigate to topics, and between and within pages.==
+[Contact the helpdesk :fontawesome-solid-headset:](#){ .md-button }
