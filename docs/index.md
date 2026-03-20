@@ -43,6 +43,7 @@ Welcome to the documentation for the Earth Observation Data Hub. The Hub is an E
 ---
 # Launch Your Learning
 Here you will find
+
 - :material-notebook-multiple: Example notebooks
 - :fontawesome-brands-youtube: Video tutorials
 - :fontawesome-solid-comments: Community discussion forum
