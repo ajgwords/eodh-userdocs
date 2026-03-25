@@ -14,7 +14,7 @@ Welcome to the documentation for the Earth Observation Data Hub. The Hub is an E
 <div class="landing-panel" markdown>
 
 ## Explorers
-[Want to find things →](analysts/index.md)
+[Want to find things →](Explorers/resource-catalogue/data-discovery.md)
 
 :material-magnify-expand:
 
@@ -23,7 +23,7 @@ Welcome to the documentation for the Earth Observation Data Hub. The Hub is an E
 <div class="landing-panel" markdown>
 
 ## Analysts
-[Want to do things →](analysts/index.md)
+[Want to do things →](Analysts/notebook-service/notebooks-start.md)
 
 :material-google-analytics:
 
@@ -32,7 +32,7 @@ Welcome to the documentation for the Earth Observation Data Hub. The Hub is an E
 <div class="landing-panel" markdown>
 
 ## Developers
-[Want to build things →](analysts/index.md)
+[Want to build things →](Developers/apps/apps.md)
 
 :simple-devbox:
 
